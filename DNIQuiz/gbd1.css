@@ -52,10 +52,10 @@
     text-decoration: none;
   }
   #display-container {
-    background-color: #f3c00b;
+    background-color: #25a306;
     padding: 3.1em 1.8em;
     width: 80%;
-    max-width: 37.5em;
+    max-width: 48.5em;
     margin: 0 auto;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -83,7 +83,7 @@
   .question {
     margin-bottom: 1.25em;
     font-weight: 600;
-    color: #25a306;
+    color: #04134b;
     fill: #c9d429;
   }
   .option-div {
@@ -126,6 +126,7 @@
   }
   .img1{
     border: 6px solid #04134b;
+    margin-left: 150px;
   }
   #user-score {
     font-size: 1.5em;
